@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: demo
+
+server:
+  port: 8080    # 配置端口为8080
+
